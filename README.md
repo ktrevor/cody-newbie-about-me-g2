@@ -5,7 +5,7 @@ This is a beginner-friendly demo that shows how the frontend, backend, and datab
 1. Clone the Repo
 ```
 git clone <your-repo-url>
-cd demo-app
+cd fullstack-demo
 ```
 
 2. Start the Backend (Flask)
