@@ -5,13 +5,13 @@ This is a beginner-friendly demo that shows how the frontend, backend, and datab
 1. Clone the Repo
 ```
 git clone <your-repo-url>
-cd fullstack-demo
+cd cody-newbie-about-me-g2
 ```
 
 2. Start the Backend (Flask)
 ```
 cd backend
-pip install flask flask-cors
+pip3 install flask flask-cors
 python app.py
 ```
 
